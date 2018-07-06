@@ -3,7 +3,7 @@ import os
 import time
 
 x=3
-y=10
+y=20
 
 def printStage(m):
     for i in range(0,x-m,1):
